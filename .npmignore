@@ -1,0 +1,10 @@
+# Exclude test files
+test/
+__tests__/
+coverage/
+
+# Exclude config files
+*.config.js
+
+# Exclude other unnecessary files
+.DS_Store

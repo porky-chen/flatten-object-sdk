@@ -1,0 +1,32 @@
+{
+  "name": "flatten-object-sdk",
+  "version": "1.0.1",
+  "description": "A powerful SDK for complex object manipulation, including deep flattening, unflattening, property checks, and modifications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "object",
+    "manipulation",
+    "flatten",
+    "unflatten",
+    "JavaScript",
+    "SDK",
+    "property management",
+    "object operations",
+    "nested objects",
+    "array handling",
+    "data transformation",
+    "utilities",
+    "对象扁平化",
+    "对象反扁平化",
+    "对象多维转一维",
+    "对象一维转多维"
+  ],
+  "author": "Zeo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
