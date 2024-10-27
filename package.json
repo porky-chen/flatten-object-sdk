@@ -1,6 +1,6 @@
 {
   "name": "flatten-object-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A powerful SDK for complex object manipulation, including deep flattening, unflattening, property checks, and modifications.",
   "main": "index.js",
   "scripts": {
